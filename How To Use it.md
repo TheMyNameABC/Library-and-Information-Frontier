@@ -1,11 +1,11 @@
 # Library-and-Information-Frontier
-This is Professor Zhu's drawing assignment.
-Figures and Data.
-You can download the .RAR to see the clearer pictures.
-You can repeat the experiment by my Data.
-The Word and PDF works are not here.
-You can contact me via email:742984981@qq.com to get Word and PDF works.
-Thanks!
+- This is Professor Zhu's drawing assignment.
+- Figures and Data.
+- You can download the .RAR to see the clearer pictures.
+- You can repeat the experiment by my Data.
+- The Word and PDF works are not here.
+- You can contact me via email:742984981@qq.com to get Word and PDF works.
+- Thanks!
 
 这是朱老师图书情报前沿课程的画图作业，
 我把图和数据放在这里了，
